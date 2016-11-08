@@ -1,0 +1,23 @@
+{
+    "name": "morrah77/csvfilter",
+    "description": "Simple CSV files processor performing sorting and filtering source file data with ability to save processed data into another file",
+    "type": "project",
+    "version": "1.0.0",
+    "homepage": "https://github.com/morrah77/csvfilter",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/morrah77/csvfilter.git"
+    },
+    "support": {
+        "issues": "https://github.com/morrah77/csvfilter/issues",
+        "source": "https://github.com/morrah77/csvfilter"
+    },
+    "authors": [
+        {
+            "name": "Helen Lazar",
+            "email": "helen.lazar.77@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
